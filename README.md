@@ -1,4 +1,4 @@
-# Voice-Controlled LED System with Arduino and Python  
+# Voice-Controlled LED System with Arduino and Python Control  
 
 ## Dataset  
 This project does not require a traditional dataset. Instead, it relies on real-time voice commands recognized through the SpeechRecognition library. The system interprets spoken commands to control LEDs via Arduino.  
