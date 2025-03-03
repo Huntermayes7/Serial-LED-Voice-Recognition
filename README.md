@@ -6,7 +6,8 @@ This project does not require a traditional dataset. Instead, it relies on real-
 ## References  
 - [PySerial Documentation](https://pyserial.readthedocs.io/en/latest/)  
 - [SpeechRecognition Library](https://pypi.org/project/SpeechRecognition/)  
-- [Arduino Documentation](https://www.arduino.cc/reference/en/)  
+- [Arduino Documentation](https://www.arduino.cc/reference/en/)
+- [Watch My Youtube Video](https://youtu.be/V4VgY6auqOs)  
 
 ## Project Steps  
 
